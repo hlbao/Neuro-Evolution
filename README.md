@@ -1,2 +1,2 @@
-# evolutionary algorithm to find the best neural net architecture for face classification task.
-see report thx
+# evolutionary algorithm to find the best neural net architecture for the face classification task.
+See final_report.pdf for more details, thx.
